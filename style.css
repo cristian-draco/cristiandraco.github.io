@@ -91,7 +91,6 @@ body {
   border-radius: 8px;
   margin-bottom: 20px;
   
-  .card ul { padding-left: 20px; }
 }
 
 .tools {
@@ -133,3 +132,5 @@ footer {
   margin: 20px auto;  /* centra la imagen */
   border-radius: 10px;
 }
+
+.card ul { padding-left: 20px; }
